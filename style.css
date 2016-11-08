@@ -4,3 +4,20 @@
 .system{
     width: 50%;
 }
+.link1{
+    margin-left:110px;
+    display: inline-block;
+}
+.link2{
+
+    display: inline-block;
+    margin-left:20px;
+}
+.link3{
+    display: inline-block;
+    margin-right: 600px;
+    margin-left:20px;
+}
+.link4{
+    display: inline-block;
+}
