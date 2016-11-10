@@ -21,3 +21,24 @@
 .link4{
     display: inline-block;
 }
+.system{
+    margin-left:110px;
+    display: inline-block;
+}
+.tel{
+    margin-left:300px;
+    display: inline-block;
+}
+.logo{
+    margin-left:25px;
+}
+.org{
+    display: inline-block;
+}
+.works{
+    margin-left:500px;
+    display: inline-block;
+}
+.time_work{
+    display: inline-block;
+}
