@@ -31,6 +31,7 @@
 }
 .logo{
     margin-left:25px;
+    display: inline-block;
 }
 .org{
     display: inline-block;
@@ -41,4 +42,11 @@
 }
 .time_work{
     display: inline-block;
+}
+.catal{
+    margin-left: 20px;
+    margin-right:40px;
+}
+.syst, .stock, .price, .service, .deliv, .pay, .return, .insurance, .opt, .contacs{
+    margin-right:15px;
 }
